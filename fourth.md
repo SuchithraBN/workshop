@@ -1,0 +1,1 @@
+Homebrew is a lightweight open-source software package management system for Mac. You can use the program to install and administer numerous command-line utilities and apps on your Mac. However, according to the software creators, “Homebrew is a software that installs the stuff you need, but Apple didn’t.”
